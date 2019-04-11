@@ -33,5 +33,6 @@ cd '/Applications/League of Legends.app/Contents/LoL/'
 3. Executar o script com o terminal.
 4. Sempre que fechar o jogo abrir usando o script.
 5. Aproveitem.
-''
+'
 
+# Fim do Script.
