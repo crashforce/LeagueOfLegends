@@ -10,3 +10,6 @@ Script para automatizar as configurações de correção do League Voice na Vers
 6. O jogo irá iniciar, ao entrar na sua conta  vá na opção de configuração geral (Na engrenagem canto superior direito).
 7. Escolha a opção Voz. Em configurações de entrada, basta clicar no ícone do microfone para testar e vai ser perguntado sobre o microfone confirme.
 8. Tudo certo!! Seu League Voice irá estar funcionando, aproveite!
+
+
+https://etgeekera.files.wordpress.com/2014/06/league-of-legends-wallpaper.jpg
