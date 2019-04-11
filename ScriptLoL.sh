@@ -27,7 +27,7 @@ cd '/Applications/League of Legends.app/Contents/LoL/'
 #                       #
 #########################
 
-:' 
+: ' 
 1. Não fechar o terminal, basta minimizar o mesmo.
 2. Dar o permissionamento para o script ( chmod +x ScriptLoL.sh).
 3. Executar o script com o terminal.
