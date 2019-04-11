@@ -12,4 +12,4 @@ Script para automatizar as configurações de correção do League Voice na Vers
 8. Tudo certo!! Seu League Voice irá estar funcionando, aproveite!
 
 
-https://etgeekera.files.wordpress.com/2014/06/league-of-legends-wallpaper.jpg
+![LeagueOfLegendsBR](https://camo.githubusercontent.com/f252e9f9e7e8d54ae4c96512574b767803d0676a/687474703a2f2f692e696d6775722e636f6d2f51623962366f562e6a7067)
